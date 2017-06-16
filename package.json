@@ -1,0 +1,15 @@
+{
+  "name": "dcard-analytic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ALiangLiang",
+  "license": "MIT",
+  "dependencies": {
+    "dcard": "^3.0.4"
+  }
+}
